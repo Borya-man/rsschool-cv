@@ -1,37 +1,37 @@
-Resume
+# Resume
 
 Anton Borisov
 
-Contacts:
+## Contacts:
 e-mail: borya-man@bk.ru
 Tel: +375 44 7775786
 
-Objective:
+## Objective:
 Start a career of Junior front-end developer.
 
-Summary:
+## Summary:
 Team player, goal oriented, hard working
 
-Skills:
-version control: 
-Github
+## Skills:
+* version control: 
+* Github
 
 programming languages: 
-HTML5,
-CSS3,
-JavaScript,
-assembler
+* HTML5,
+* CSS3,
+* JavaScript,
+* assembler
 
-Education:
+## Education:
 Belarusian State Technological University
 
-Online learning: 
-Codecademy, 
-HTML-academy, 
-LearnJavaScript
+## Online learning: 
+* Codecademy, 
+* HTML-academy, 
+* LearnJavaScript
 
-Experience:
+## Experience:
 Rolling Scopes school
 
-English level:
+## English level:
 a2
