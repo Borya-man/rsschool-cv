@@ -1,1 +1,1 @@
-# rsschool-cv
+Click [here](https://borya-man.github.io/rsschool-cv/cv), see my resume and send me an offer
